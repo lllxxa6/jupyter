@@ -1,0 +1,24 @@
+腾讯云登录(https://cloud.tencent.com/)：
+    主账号：100014751536
+    子用户名：cuixuan
+    密码：ymyQuWk.8.2eLLu、
+
+后端启动（http://1.15.141.77:8000）：
+    python modelback/manage.py runserver 0.0.0.0:8000
+
+前端启动（http://1.15.141.77:8080）：
+    cd AutomatedML
+    npm run serve
+
+管理账号：
+    ⽤户名：manager1
+    密码：manager123
+    
+⽤户：
+    ⽤户名：user1
+    密码:：user123
+    
+建模⼈员：
+    ⽤户名：modeler1
+    密码：modeler123
+
